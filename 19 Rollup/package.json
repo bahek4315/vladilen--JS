@@ -1,0 +1,32 @@
+{
+  "name": "Webpack rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "rollup -c -w",
+    "prod": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahek4315/vladilen--JS.git"
+  },
+  "keywords": [
+    "webpack",
+    "rollup"
+  ],
+  "author": "Ivan Dmitriev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahek4315/vladilen--JS/issues"
+  },
+  "homepage": "https://github.com/bahek4315/vladilen--JS#readme",
+  "devDependencies": {
+    "@rollup/plugin-babel": "^5.3.1",
+    "rollup-plugin-img": "^1.1.0",
+    "rollup-plugin-livereload": "^2.0.5",
+    "rollup-plugin-serve": "^1.1.0",
+    "rollup-plugin-styles": "^4.0.0"
+  }
+}

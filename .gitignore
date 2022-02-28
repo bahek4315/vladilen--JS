@@ -1,6 +1,7 @@
 cat .gitignore
 
+Consultations/
 node_modules/
-
+lessons/
 JS1/19\ Rollup
 JS1/20\ Webpack
