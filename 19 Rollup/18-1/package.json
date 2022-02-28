@@ -1,0 +1,14 @@
+{
+  "name": "task 18-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "keywords": ["home task 18-1"],
+  "author": "Ivan Dmitiev",
+  "license": "ISC"
+}
